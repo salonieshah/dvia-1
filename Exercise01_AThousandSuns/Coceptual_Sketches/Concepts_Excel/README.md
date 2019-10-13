@@ -8,6 +8,6 @@ The area line chart attempts to understand year-wise nuclear tests done in each 
 3.	Why did they contribute?<br>
 The stacked bar chart attempts to understand the location and no of tests for each country that carried out nuclear tests. <br>
 <br>
-![5](https://github.com/salonieshah/dvia-1/blob/master/Exercise01_AThousandSuns/Coceptual_Sketches/Concepts_Excel/Why_did_they_contribute.jpg)<br><br>
+![5](Exercise01_AThousandSuns/Coceptual_Sketches/Concepts_Excel/Why_did_they_contribute.jpg)<br><br>
 
 Method: Pivot Table, Microsoft Excel<br>
